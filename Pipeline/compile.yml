@@ -3,4 +3,4 @@ inputs:
   - name: code
 run:
   dir: code
-  path: msbuild
+  path: c:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild
